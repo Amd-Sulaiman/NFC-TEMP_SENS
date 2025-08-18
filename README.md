@@ -31,7 +31,16 @@ Gen-1 prototype: **ESP32-C6 Mini** + **TMP117** for contact body temperature, st
 
 - [Enclosure Bottom (STL)](3D%20Model/SENS_enclosure_bottom.stl)
 - [Enclosure top (STL)](3D%20Model/SENS_enclosure_top.stl)
-  
+
+![Enclosure Bottom Render](images/enclosure_bottom.png)
+
+[Download STL](3D%20Model/SENS_enclosure_bottom.stl)
+
+![Enclosure top Render](images/enclosure_top.png)
+
+[Download STL](3D%20Model/SENS_enclosure_top.stl)
+
+
 
 ## 🚦 Status thresholds (default)
 - **Normal**: `< 37.5°C` (99.5°F)
