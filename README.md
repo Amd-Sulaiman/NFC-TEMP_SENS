@@ -22,17 +22,15 @@ Gen-1 prototype: **ESP32-C6 Mini** + **TMP117** for contact body temperature, st
 | Finger contact | Ensure consistent placement/pressure |
 
 ## 📸 Prototype Gallery (placeholder)
-> Upload your images to `images/` and replace below.
 
 ![Prototype — Front](images/Front.jpg)
-![Sensor Close-up](images/Back.jpg
-)
+![Prototype — Back](images/Back.jpg)
+![Sensor Close-up](images/Inside.jpg).
 
 ## 🧱 3D Model & Enclosure (placeholder)
-> Upload STL/STEP into `models/` and link them here.
 
-- `3D Model/SENS_enclosure_bottom.stl`
-- `3D Model/SENS_enclosure_top.stl`
+- (3D Model/SENS_enclosure_bottom.stl)
+- (3D Model/SENS_enclosure_top.stl)
 
 ## 🚦 Status thresholds (default)
 - **Normal**: `< 37.5°C` (99.5°F)
