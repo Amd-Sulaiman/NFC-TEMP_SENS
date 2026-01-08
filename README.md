@@ -25,7 +25,12 @@ Gen-1 prototype: **ESP32-C6 Mini** + **TMP117** for contact body temperature, st
 
 ![Prototype — Front](images/Front.jpg)
 ![Prototype — Back](images/Back.jpg)
-![Sensor Close-up](images/Inside.jpg).
+![Sensor Close-up](images/Inside.jpg)
+
+![Version2 — Front](images/Front_V2.jpg)
+![Version2 — Back](images/Back_V2.jpg)
+![Version2 — Status Page](images/Status_V2.jpg)
+![Version2 — Side](images/Side_V2.jpg).
 
 ## 🧱 3D Model & Enclosure
 
